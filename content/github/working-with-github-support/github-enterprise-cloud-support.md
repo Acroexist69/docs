@@ -1,4 +1,5 @@
----
+---how many of this same email
+
 title: GitHub Enterprise Cloud support
 redirect_from:
   - /articles/business-plan-support/
